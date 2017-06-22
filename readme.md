@@ -1,4 +1,4 @@
-#Solución a Práctica del curso de git, gitHub y Sourcetree
+# Solución a Práctica del curso de git, gitHub y Sourcetree
 
 **¿Qué comando utilizaste en el paso 11? ¿Por qué?**  
 *git reset --hard HEAD~1*  
